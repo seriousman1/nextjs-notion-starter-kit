@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'PG吧，正经大人！',
+  name: '哈哈哈',
   domain: 'https://www.notion.so/022504a7a8b444fe9080e0e39d740536',
   author: 'SeriousMan',
 
