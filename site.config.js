@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'd15281f2f5144561858d2fa65313b840',
+  rootNotionPageId: '022504a7a8b444fe9080e0e39d740536',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'PG吧，正经大人！',
-  domain: 'https://www.notion.so/PG-d15281f2f5144561858d2fa65313b840',
+  domain: 'https://www.notion.so/022504a7a8b444fe9080e0e39d740536',
   author: 'SeriousMan',
 
   // open graph metadata (optional)
