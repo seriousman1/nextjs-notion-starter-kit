@@ -7,8 +7,8 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '哈哈哈',
-  domain: 'https://www.notion.so/022504a7a8b444fe9080e0e39d740536',
+  name: 'PG吧，正经大人！',
+  domain: 'https://www.notion.so/PG-022504a7a8b444fe9080e0e39d740536',
   author: 'SeriousMan',
 
   // open graph metadata (optional)
